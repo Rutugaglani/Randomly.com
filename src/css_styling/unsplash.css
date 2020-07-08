@@ -1,0 +1,60 @@
+.unsplash_photos img
+{
+    width:100% !important;
+    margin:2% auto;
+
+}
+.unsplash_photos {
+    padding-right: 0% !important;
+}
+.Col_main_unsplash
+{
+    padding-right: 0% !important;
+}
+.unsplash_mainHeader
+{
+    color:#fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.unsplash_para
+{
+    margin-bottom: 3px !important;
+    color: #fff;
+    font-size: 18px;
+}
+.unsplash_jumbo
+{
+    padding:15% auto auto auto  ;
+    margin: 2% auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:60vh;
+    background-position: center;
+}
+.search_div
+{
+    margin-top: 3% !important;
+    height: 20px;
+    border: none;
+}
+.searchBtn_unsplash
+{
+    background-color: #fff !important;
+    border: none !important;
+    color:gray !important;
+}
+.unsplash_input
+{
+    border: 1px solid #fff !important; 
+    outline: none;
+    padding:3% auto !important
+    
+}
+.unsplash_input:focus
+{
+    border:1px solid #fff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0) !important;
+}

@@ -1,0 +1,26 @@
+.nav_brand
+{
+    font-size:2rem !important;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff !important;
+}
+.Nav_comp
+{
+    font-size: 18px !important;
+    margin :auto 10px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+.navMain
+{
+    background-color:#263238;
+}
+.Nav_comp:hover{
+ background-color: #fff;
+color: #263238;
+text-decoration: none;
+transform: scale(1.1);
+padding:10px;
+
+}

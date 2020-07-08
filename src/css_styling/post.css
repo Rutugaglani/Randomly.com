@@ -1,0 +1,81 @@
+.post_main,.album_main
+{
+    margin: 2% auto;
+}
+
+.post_display,.album_display
+{
+
+    padding:20px 10px !important;
+    margin:10px auto;
+    box-shadow: 5px 8px 10px #70686891;
+    color:#000 !important;
+    
+}
+.post_header , .album_header ,.selAlbum_header
+{
+    color:#2d455d;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin-top: 2%;
+}
+.post_para ,.album_para
+{
+    font-size: 18px;
+    color:#000 !important;
+
+}
+.post_mainDiv{
+    margin:3% auto;
+}
+.post_body
+{
+    margin: 2% auto !important;
+    font-size: 18px;
+}
+
+.post_item
+{
+    background-color: #f6f7f8;
+    padding-top: 10px;
+    margin:8px auto !important;
+}
+.post_ImageCol img
+{
+        width : 60px !important;
+        height: 60px !important;
+        border-radius :30px !important;
+    
+}
+.post_NameCol
+{
+    display:-webkit-inline-box;
+    font-size: 18px;
+}
+.post_email
+{
+    padding-left: 5%;
+    padding-top: 1%;
+    font-size: 12px !important;
+    color:#484848;
+}
+.post_commentBody
+{
+    font-size: 20px;
+}
+
+/* ALBUM */
+
+.album_card
+{
+    border:0px !important;
+}
+.album_card:hover
+{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.albumPhotosList
+{
+    margin:3% auto;
+}

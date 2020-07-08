@@ -1,0 +1,21 @@
+.nasa_picture
+{
+    margin: 1% 0% !important;
+    height:500px;
+    width:100%;
+}
+.nasa_title
+{
+    color:#2d455d;
+    letter-spacing: 1px;
+}
+.nasa_exp
+{
+    color:#2d455d;
+    font-size: 18px; 
+}
+.nasa_date
+{
+    text-align: right;
+    
+}
